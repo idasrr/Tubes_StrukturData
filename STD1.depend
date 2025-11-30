@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1764503921 source:c:\users\ida sri rahayu\onedrive\documents\std1\lagu.cpp
+	"lagu.h"
+	<stdlib.h>
+
+1764503902 c:\users\ida sri rahayu\onedrive\documents\std1\lagu.h
+	<iostream>
+
+1764503732 source:c:\users\ida sri rahayu\onedrive\documents\std1\main.cpp
+	"menu.h"
+
+1764503980 c:\users\ida sri rahayu\onedrive\documents\std1\menu.h
+	"user.h"
+	"lagu.h"
+
+1764503958 c:\users\ida sri rahayu\onedrive\documents\std1\user.h
+	"lagu.h"
+	<iostream>
+	<string>
+
+1764503991 source:c:\users\ida sri rahayu\onedrive\documents\std1\menu.cpp
+	"menu.h"
+	<stdlib.h>
+
+1764504388 source:c:\users\ida sri rahayu\onedrive\documents\std1\user.cpp
+	"user.h"
+	<stdlib.h>
+
